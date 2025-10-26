@@ -40,3 +40,17 @@ Data Dictionary to be put here
 # Queries
 
 <img width="1614" height="938" alt="image" src="https://github.com/user-attachments/assets/471369ad-23ff-4122-a3fe-e6df9f05e199" />
+
+1. Query 1 lists the favorite movie titles for each profile, when it was favorited, and only for titles favorited in 2024.
+
+<img width="2588" height="804" alt="image" src="https://github.com/user-attachments/assets/5316864a-8439-4379-bf8a-1981c3691395" />
+
+Query 1 allows managers to analyze recent trends in user engagement by seeing which movies were liked by viewers, specifically in 2024. This helps them identify popular content and aim their marketing campaigns towards these highly rated titles. By seeing which movies are favorited and which ones aren’t, the streaming service can more easily decide what type of content to promote more heavily.
+
+2. Query 2 lists each employee and their supervisor, but only for supervisors in the customer support department
+
+<img width="1618" height="334" alt="image" src="https://github.com/user-attachments/assets/f54c19c7-75fd-470f-892a-0441021ad5cf" />
+
+Query 2 allows management to better understand the reporting structure within specific departments in the company, such as the customer support team used in the query above. This is extremely useful for monitoring an employee’s workloads, as well as ensuring proper supervision from the company’s supervisors. Also, tracking each employee and who they report to can allow the company to plan training and conduct performance reviews within a chosen department.
+
+
