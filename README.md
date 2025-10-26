@@ -33,3 +33,10 @@ When a customer has a problem, they need to contact an employee. An account owne
 
 <img width="2134" height="1260" alt="image" src="https://github.com/user-attachments/assets/b01358a1-4450-4cb4-914b-4b15fe7b67b6" />
 
+# Data Dictionary
+
+Data Dictionary to be put here
+
+# Queries
+
+<img width="1614" height="938" alt="image" src="https://github.com/user-attachments/assets/471369ad-23ff-4122-a3fe-e6df9f05e199" />
