@@ -6,9 +6,9 @@ MIST 4610 Dr. Sri Fall 2025 Group 3 Section 2
 
 ## Team Members
 1. Matthew Wise
-2. Ghasan Awad
-3. Trisha Kattoju
-4. Marrissa Le
+2. Ghasan Awad @awadg420
+3. Trisha Kattoju @tkattoju
+4. Marrissa Le @MarissaLe
 5. Isaac Lee
 
 # Problem Description
