@@ -100,3 +100,9 @@ This query lets managers track overall performance and workload for the customer
 <img width="2640" height="654" alt="image" src="https://github.com/user-attachments/assets/3fcc537a-0dea-4b54-b8fa-5fb45485a1f7" />
 
 This query points out customers who have no records of payment history, whether it’s because they are inactive or possibly showing delinquent behavior. This information and distinction is crucial for our company to maintain financial health and improve customer retention. Some steps that we can take with this data involve a billing follow-up to resolve payment issues before accounts are suspended. Also, the marketing department can use this data to target these users with special discounts or limited-time trials to encourage subscription renewals. Another possible reason for lack of payment is fraud, which is important for us to track to maintain company standards and ensure a fair experience for all our customers.
+
+# Database Information
+
+Name of the database: ns_Group3
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
