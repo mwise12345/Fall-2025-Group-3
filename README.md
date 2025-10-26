@@ -28,3 +28,8 @@ The Content entity represents our entire media catalog of movies and series. It 
 Finally, our model involves the internal operations of the company. The Department entity represents our internal departments such as billing and customer support. Inside a department, there are many employees. Employee data stored includes name, email, job title, and their hire date. Each employee also has a supervisor, and a supervisor can oversee many employees, indicating a one-to-many recursive relationship.
 
 When a customer has a problem, they need to contact an employee. An account owner can have many support tickets, and an Employee (like a support agent) can work on many tickets. This many-to-many relationship is handled by the Ticket associative table, which links the account owner who has a problem to the Employee assigned to help them. A ticket has a request date and a resolve date.
+
+# Data Model
+
+<img width="2134" height="1260" alt="image" src="https://github.com/user-attachments/assets/b01358a1-4450-4cb4-914b-4b15fe7b67b6" />
+
