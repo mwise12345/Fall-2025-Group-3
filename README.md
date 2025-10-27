@@ -35,7 +35,13 @@ When a customer has a problem, they need to contact an employee. An account owne
 
 # Data Dictionary
 
-Data Dictionary to be put here
+<img width="417" height="547" alt="image" src="https://github.com/user-attachments/assets/e8ba07fb-a062-4ad0-bfa6-4fdf7b0b42f2" />
+<img width="417" height="360" alt="image" src="https://github.com/user-attachments/assets/73efe746-ee83-458a-ab79-2a83cdd88de5" />
+<img width="417" height="360" alt="image" src="https://github.com/user-attachments/assets/273ec343-0396-4e0d-9c4c-9d13fd68ff71" />
+<img width="417" height="526" alt="image" src="https://github.com/user-attachments/assets/90bca0b8-ba42-4f9c-a89f-ad32d269435a" />
+<img width="417" height="470" alt="image" src="https://github.com/user-attachments/assets/b1b352e9-de30-42e7-98a9-707cc23744f9" />
+<img width="417" height="514" alt="image" src="https://github.com/user-attachments/assets/0fdfe764-b6fe-4f0b-b912-470942e034d4" />
+
 
 # Queries
 
