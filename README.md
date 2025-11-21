@@ -8,7 +8,7 @@ MIST 4610 Dr. Sri Fall 2025 Group 3 Section 2
 1. Matthew Wise @mwise12345
 2. Ghasan Awad @awadg420
 3. Trisha Kattoju @tkattoju
-4. Marissa Le @MarissaLe
+4. Marissa Le [@MarissaLe](https://github.com/MarissaLe/Fall-2025-Group-3)
 
 # Problem Description
 
